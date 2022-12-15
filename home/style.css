@@ -8,6 +8,8 @@ a {
   text-decoration: none;
 }
 
+/* <!-- Resource: Hamburger menu, original by Erik Terwan - Link in sourcelist --> */
+
 #menuToggle {
   display: none;
   position: relative;
