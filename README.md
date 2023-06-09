@@ -1,6 +1,6 @@
 # Online Community Science Museum
 
-![image](https://imgur.com/a/qDwYu95)
+![image](https://github.com/EronAdemi/Sciencemuseumproject/assets/111318711/0037a0ed-cf59-4793-a858-f3f152ce7adb)
 
 
 ## Description
