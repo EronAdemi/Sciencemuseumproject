@@ -1,6 +1,6 @@
 # Online Community Science Museum
 
-![image](https://prnt.sc/85qXyQj8_pW-)
+![image](https://imgur.com/a/qDwYu95)
 
 
 ## Description
